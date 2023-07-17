@@ -20,3 +20,13 @@ header{
     background: transparent;
     
 }
+body{
+    background: grey;
+}
+
+
+.logo{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
